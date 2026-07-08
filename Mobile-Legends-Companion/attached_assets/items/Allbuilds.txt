@@ -1,522 +1,523 @@
 ﻿isim:Aamon
 item:büyücü bot , cennet tüyü , akıllı asa , parlayan asa , adalet kılıcı , kan kanatları
-
+büyü: pençe 
 
 isim:Akai
 item:sürat botu , lanetli kask , muhafız miğferi , yedi denizin kılıcı , bitmeyen savaş
-
+büyü: ışınlan 
 
 isim:Aldous
 item:sağlam botlar , bitmeyen savaş , avcı darbesi , yedi denizin kılıcı , berserkerin öfkesi
-
+büyü: ışınlan 
 
 isim:Alice
 item:sağlam botlar , kader saati , kahin , laneli kask , konsantre enerji , kıyamet kanatları
-
+büyü: misilleme
 
 isim:Alpha
 item:kinci balta , avcı darbesi , kahin , kıyamet kanatları , ölümsüzlük
-
+büyü: misilleme
 
 isim:Alucard
 item:sağlam botlar , kinci balta , avcı darbesi , bitmeyen savaş , umutsuzluk kılıcı ,  kıyamet kanatları
-
+büyü: ışınlan 
 
 isim:Angela
 item:sağlam botlar  , vaha matarası , kahin , büyülü tılsım , buz kraliçesinin asası , ölümsüzlük
-
+büyü: canlandır
 
 isim:Argus
 item:fırtına , korozyon tırpanı , berserkerin öfkesi , haasın pençeleri , ejder mızrağı , atlantis
-
+büyü: ilham
 
 isim:Arlot
 item:sağlam botlar , kinci balta , kahin , kıyamet kanatları , acımasız kuvvet zırhı, midas
-
+büyü: taşlaştır 
 
 isim:Atlas
 item:sürat botu , fani zaman , kahin , antik zırh , athena , azapdar omuzluğu , ölümsüzlük
-
+büyü: ışınlan 
 
 isim:Aulus
 istem:sağlam botlar , kinci balta , korozyon tırpanı , bitmeyen savaş , ejder mızrağı , ölümsüzlük
-
+büyü: misilleme
 
 isim:Aurora
 item:sürat botu , akıllı asa , kan kanatları , kutsal kristal , parlayan asa , adalet kılıcı
-
+büyü: alev atışı 
 
 isim:Badang
 item:sihirli botlar , korozyon tırpanı , şeytan avcısı kılıcı , altın asa , umutsuzluk kılıcı , korkunç silah
-
+büyü: ışınlan 
 
 isim:Balmond
 item:sihirli botlar , kinci balta , kıyamet kanatları , kahin , muhafız miğferi , acımasız kuvvet zırhı
-
+büyü: misilleme 
 
 isim:Bane
 item:sihirli botlar , kinci balta , bitmeyen savaş , umutsuzluk kılıcı , korkunç silah ,  ölümsüzlük
-
+büyü: ışınlan 
 
 isim:barats
 item:sağlam botlar , bitmeyen savaş , kinci balta , acımasız kuvvet zırhı , ölümsüzlük
-
+büyü: pençe 
 
 isim:Baxia
 item:sağlam botlar , laneli kask , antik zırh , ayaz , athena , muhafız miğferi
-
+baxia: misilleme 
 
 isim:beatrix
 item:sağlam botlar , kinci balta , umutsuzluk kılıcı , atlantis , korkunç silah , doğa rüzgarı
-
+büyü; ışınlan 
 
 isim:belerick
 item:sağlam botlar , yansıma zırhı , azaptar omuzluğu , antik zırh , athena , muhafız miğferi
-
+büyü: misilleme 
 
 isim:Benedetta
 item:sağlam botlar , yedi denizin kılıcı , bitmeyen savaş , kinci balta , acımaszı kuvvet zırhı , kıyamet kanatları
-
+büyü: taşlaştır 
 
 isim:Brody
 item:kaotik silah , umutsuzluk kılıcı , korkunç silah , kinci balta , atlantis , midasın kılıcı
-
+büyü: ışınlan 
 
 isim:Bruno
 item:saldırı hızı botu , haasın pençeleri , bersserkerin öfkesi , kaotik silah , umutsuzluk kılıcı , doğanın rüzgarı
-
+büyü: ilham
 
 isim:Carmilla
 item:sürat botu , gök gürültüsü kemeri , kahin , athena , ayaz , ölümsüzlük
-
+büyü: misilleme
 
 isim:cecilion
 item:mana botu , kader saati , parlayan asa , dilek feneri , adalet kılıcı , kan kanatları
-
+büyü: alev atışı 
 
 isim:Change
 item:mana botu , cennet tüyü , akıllı asa , kutsal kristal , adalet kılıcı , kan kanatları
-
+büyü: alev atışı 
 
 isim:Chou
 item:sağlam botlar , yedi denizin kılıcı , avcı darbesi , bitmeyen savaş , umutsuzluk kılıcı , ölümsüzlük
-
+büyü: ışınlan 
 
 isim:Cici
 item:sihirli botlar , kinci balta , kıyamet kanatları , kahin , acımasız kuvvet zırhı , ölümsüzlük
-
+büyü: misilleme
 
 isim:Claude
 item:sağlam botlar , fırtına , şeytan avcısı kılıcı , korozyon tırpanı , altın asa , kaotik silah
-
+büyü: misilleme 
 
 isim:Clint
 item:sağlam botlar , bitmeyen savaş , berserkerin öfkesi , kaotik silah , korkunç silah , midasın kılıcı
-
+büyü: ışınlan 
 
 isim:Cyclops
 item:büyücü botu , akıllı asa, yıldırım asası , kutsal kristal , adalet kılıcı , ölümsüzlük
-
+büyü: alev atışı 
 
 isim:Diggie
 item:sağlam botlar , vaha matarası , kahin , fani zaman , parlak zırh , ölümsüzlük
-
+büyü: canlandırma 
 
 isim:Dyroth
 item:sağlam botlar , avcı darbesi , bitmeyen savaş , umutsuzluk kılıcı , kıyamet kanatları , ölümsüzlük
-
+büyü: taşlaştır
 
 isim:Edith
 item:saaldırı hızı botu , gök gürültüsü kemeri , cennet tüyü , ayaz , antik zırh , athena
-
+büyü: ilham
 
 isim:Esmeralda
 item:sihirli botlar , cennet tüyü , konsantre enerji , kahin , acımasız kuvvet zırhı , kan kanatları
-
+büyü: kalkan
 
 isim:Estes
 item:mana botu , vaha matarası , kahin , fani zaman , ayaz , kutsal kristal , ölümsüzlük
-
+büyü: canlandırma 
 
 isim:Eudora
 item:büyücü botu , akıllı asa , gök kıran , yıldırım asası , kutsal kristal , adalet kılıcı 
-
+büyü: ışınlanma 
 
 isim:Fanny
 item:saldırı hızı botu , kinci balta , umutsuzluk kılıcı , korkunç silah , haasın pençeleri , atlantis
-
+büyü: pençe 
 
 isim:Faramis
 item:büyücü botu , akıllı asa , kutsal kristal , adalet kılıcı , dilek feneri , ölümsüzlük
-
+büyü: ışınlan 
 
 isim:Floryn
 item:mana botu , vaha matarası , kahin , fani zaman , dilek feneri , ölümsüzlük
-
+büyü: canlandırma 
 
 isim:Franco
 item:sağlam botlar , azaptar omuzluğu , antik zırh , athena , muhafız miğferi , ölümsüzlük
-
+büyü: ışınlan
 
 isim:Fredrinn
 item:sağlam botlar , acımasız kuvvet zırhı , kahin , athena , antik zırh , ölümsüzlük
-
+büyü: misilleme 
 
 isim:Freya
 item:sağlam botlar , bitmeyen savaş , kinci balta , acımasız kuvvet zırhı , kahin , ölümsüzlük
-
+büyü: misilleme 
 
 isim:Gatotkaca
 item:sağlam botlar , azaptar omuzluğu , antik zırh , athena , muhafız miğferi , ölümsüzlük
-
+büyü: misilleme 
 
 isim:Gloo
 item:sağlam botlar , antik zırh , athena , muhafız miğferi , kahin , ölümsüzlük
-
+büyü: misilleme 
 
 isim:Gord
 item:büyücü botu , akıllı asa , konsantre enerji , kutsal kristal , adalet kılıcı , kader saati
-
+büyü: alev atışı 
 
 isim:Granger
 item:saldırı hızı botu , midas , umutsuzluk kılıcı , korkunç silah , atlantis , ölümsüzlük
-
+büyü: ışınlan 
 
 isim:Grock
 item:sağlam botlar , azaptar omuzluğu , antik zırh , athena , acımasız kuvvet zırhı , ölümsüzlük
-
+büyü: ışınlan 
 
 isim:Guinevere
 item:sürat botu , kinci balta , umutsuzluk kılıcı , fani zaman , kıyamet kanatları , ölümsüzlük
-
+büyü: ışınlan 
 
 isim:Gusion
 item:sihirli botlar , akıllı asa , konsantre enerji , adalet kılıcı , kutsal kristal , kıyamet kanatları
-
+büyü: pençe 
 
 isim:Hanabi
 item:saldırı hızı botu , midas , umutsuzluk kılıcı , korkunç silah , atlantis , ölümsüzlük
-
+büyü: kalkan 
 
 isim:Hanzo
 item:sürat botu , kinci balta , umutsuzluk kılıcı , korkunç silah , haasın pençeleri , kıyamet kanatları
-
+büyü: pençe 
 
 isim:Harith
 item:büyücü botu , akıllı asa , konsantre enerji , kutsal kristal , adalet kılıcı , fani zaman
-
+büyü: ışınlan 
 
 isim:Harley
 item:sihirli botlar , akıllı asa , konsantre enerji , adalet kılıcı , kutsal kristal , kıyamet kanatları
-
+büyü: pençe 
 
 isim:Hayabusa
 item:sürat botu , kinci balta , umutsuzluk kılıcı , korkunç silah , haasın pençeleri , kıyamet kanatları
-
+büyü: pençe 
 
 isim:Helcurt
 item:sürat botu , kinci balta , umutsuzluk kılıcı , korkunç silah , haasın pençeleri , ölümsüzlük
-
+büyü: pençe 
 
 isim:Hilda
 item:sağlam botlar , bitmeyen savaş , kinci balta , acımasız kuvvet zırhı , kahin , ölümsüzlük
-
+buyuy: canlandırma 
 
 isim:Hirara
 item:saldırı hızı botu , kinci balta , umutsuzluk kılıcı , korkunç silah , haasın pençeleri , atlantis
-
+büyü: ışınlan 
 
 isim:Hylos
 item:sağlam botlar , antik zırh , athena , muhafız miğferi , kahin , ölümsüzlük
-
+büyü: canlandırma 
 
 isim:İrithel
 item:saldırı hızı botu , midas , umutsuzluk kılıcı , korkunç silah , atlantis , ölümsüzlük
-
+büyü: ilham
 
 isim:Ixia
 item:saldırı hızı botu , korkunç silah , atlantis , konsantre enerji , adalet kılıcı , kutsal kristal
-
+büyü: ilham
 
 isim:Jawhead
 item:sağlam botlar , bitmeyen savaş , kinci balta , acımasız kuvvet zırhı , kahin , ölümsüzlük
-
+büyü: ışınlan 
 
 isim:Johnson
 item:sağlam botlar , azaptar omuzluğu , antik zırh , athena , muhafız miğferi , ölümsüzlük
-
+büyü : misilleme 
 
 isim:Joy
 item:sürat botu , kinci balta , umutsuzluk kılıcı , korkunç silah , haasın pençeleri , kıyamet kanatları
-
+büyü: pençe 
 
 isim:Julian
 item:sağlam botlar , kinci balta , umutsuzluk kılıcı , korkunç silah , haasın pençeleri , ölümsüzlük
-
+büyü: ilham
 
 isim:Kadita
 item:sihirli botlar , akıllı asa , konsantre enerji , adalet kılıcı , kutsal kristal , kıyamet kanatları
-
+büyü: taşlaştır 
 
 isim:Kagura
 item:büyücü botu , akıllı asa , konsantre enerji , kutsal kristal , adalet kılıcı , fani zaman
-
+büyü:: alev atışı 
 
 isim:Kaja
 item:mana botu , azaptar omuzluğu , kahin , athena , muhafız miğferi , ölümsüzlük
-
+büyü: ışınlan
 
 isim:Kalea
 item:sağlam botlar , azaptar omuzluğu , acımasız kuvvet zırhı , kahin , muhafız miğferi , ölümsüzlük
-
+büyü: ışınlan
 
 isim:Karina
 item:sihirli botlar , akıllı asa , konsantre enerji , adalet kılıcı , kutsal kristal , kıyamet kanatları
-
+büyü: pençe 
 
 isim:Karrie
 item:saldırı hızı botu , midas , umutsuzluk kılıcı , korkunç silah , atlantis , ölümsüzlük
-
+büyü: ilham
 
 isim:Khaleed
 item:sağlam botlar , bitmeyen savaş , kinci balta , acımasız kuvvet zırhı , kahin , ölümsüzlük
-
+büyü: ışınlan 
 
 isim:Khufra
 item:sağlam botlar , azaptar omuzluğu , antik zırh , athena , muhafız miğferi , ölümsüzlük
-
+büyü: ışınlan 
 
 isim:Kimmy
 item:saldırı hızı botu , korkunç silah , midas , konsantre enerji , adalet kılıcı , kutsal kristal
-
+büyü: alev atışı 
 
 isim:Lancelot
 item:sürat botu , kinci balta , umutsuzluk kılıcı , korkunç silah , haasın pençeleri , kıyamet kanatları
-
+büyü: pençe 
 
 isim:Lapu-lapu
 item:sağlam botlar , bitmeyen savaş , kinci balta , acımasız kuvvet zırhı , kahin , ölümsüzlük
-
+büyü: misilleme
 
 isim:Layla
 item:saldırı hızı botu , midas , umutsuzluk kılıcı , korkunç silah , atlantis , ölümsüzlük
-
+büyü ilham hariç herşey 
 
 isim:Leomord
 item:sağlam botlar , bitmeyen savaş , kinci balta , acımasız kuvvet zırhı , umutsuzluk kılıcı , ölümsüzlük
-
+büyü: pençe 
 
 isim:Lesley
 item:saldırı hızı botu , midas , umutsuzluk kılıcı , korkunç silah , atlantis , haasın pençeleri
-
+büyü: ışınlan
 
 isim:Ling
 item:sürat botu , kinci balta , umutsuzluk kılıcı , korkunç silah , haasın pençeleri , kıyamet kanatları
-
+büyü: pençe 
 
 isim:Lolita
 item:sağlam botlar , azaptar omuzluğu , antik zırh , athena , muhafız miğferi , ölümsüzlük
-
+büyü: ışınlan 
 
 isim:Lunox
 item:büyücü botu , akıllı asa , konsantre enerji , kutsal kristal , adalet kılıcı , fani zaman
-
+büyü: ışınlan 
 
 isim:Luoyi
 item:mana botu , akıllı asa , kutsal kristal , dilek feneri , adalet kılıcı , ölümsüzlük
-
+büyü: alev atışı 
 
 isim:Lylia
 item:büyücü botu , akıllı asa , konsantre enerji , kutsal kristal , adalet kılıcı , fani zaman
-
+büyü: alev atışı 
 
 isim:Marcel
 item:sağlam botlar , gök gürültüsü kemeri , ayaz , kahin , antik zırh , ölümsüzlük
-
+büyü: ışınlan 
 
 isim:Martis
 item:sağlam botlar , bitmeyen savaş , kinci balta , acımasız kuvvet zırhı , umutsuzluk kılıcı , ölümsüzlük
-
+büyü: fırla
 
 isim:Masha
 item:sağlam botlar , bitmeyen savaş , kinci balta , acımasız kuvvet zırhı , kahin , ölümsüzlük
-
+büyü: ışınlan 
 
 isim:Mathilda
 item:sürat botu , azaptar omuzluğu , kıyamet kanatları , kahin , umutsuzluk kılıcı , ölümsüzlük
-
+büyü: canlandırma 
 
 isim:Melissa
 item:saldırı hızı botu , midas , umutsuzluk kılıcı , korkunç silah , atlantis , ölümsüzlük
-
+büyü: ilham
 
 isim:Minatour
 item:sağlam botlar , antik zırh , athena , muhafız miğferi , kahin , ölümsüzlük
-
+büyü: canlandırma 
 
 isim:Minsitthar
 item:sağlam botlar , bitmeyen savaş , kinci balta , acımasız kuvvet zırhı , kahin , ölümsüzlük
-
+büyü: ışınlan 
 
 isim:Miya
 item:saldırı hızı botu , midas , umutsuzluk kılıcı , korkunç silah , atlantis , ölümsüzlük
-
+büyü: ilham
 
 isim:Moskov
 item:saldırı hızı botu , midas , umutsuzluk kılıcı , korkunç silah , atlantis , ölümsüzlük
-
+büyü: ilham
 
 isim:Nana
 item:mana botu , akıllı asa , kutsal kristal , dilek feneri , adalet kılıcı , ölümsüzlük
-
+büyü: alev atışı 
 
 isim:Natalia
 item:sürat botu , kinci balta , umutsuzluk kılıcı , korkunç silah , haasın pençeleri , ölümsüzlük
-
+büyü: infaz
 
 isim:Natan
 item:saldırı hızı botu , korkunç silah , midas , konsantre enerji , adalet kılıcı , kutsal kristal
-
+büyü: ilham
 
 isim:Nolan
 item:sürat botu , kinci balta , umutsuzluk kılıcı , korkunç silah , haasın pençeleri , kıyamet kanatları
-
+büyü: pençe 
 
 isim:Novaria
 item:büyücü botu , kader saati , yıldırım asası , akıllı asa , adalet kılıcı , kan kanatları
-
+büyü: alev atışı 
 
 isim:Obsidia
 item:saldırı hızı botu , atlantis , umutsuzluk kılıcı , korkunç silah , midas , ölümsüzlük
-
+büyü: ilham
 
 isim:Odette
 item:büyücü botu , akıllı asa , konsantre enerji , kutsal kristal , adalet kılıcı , kader saati
-
+büyü: ışınlan 
 
 isim:Paquito
 item:sağlam botlar , bitmeyen savaş , kinci balta , acımasız kuvvet zırhı , umutsuzluk kılıcı , ölümsüzlük
-
+büyü: ışınlan
 
 isim:Pharsa
 item:büyücü botu , akıllı asa , konsantre enerji , kutsal kristal , adalet kılıcı , kader saati
-
+büyü: alev atışı 
 
 isim:Phoveus
 item:sağlam botlar , azaptar omuzluğu , acımasız kuvvet zırhı , kahin , antik zırh , ölümsüzlük
-
+büyü: misilleme 
 
 isim:Popol
 item:saldırı hızı botu , midas , umutsuzluk kılıcı , korkunç silah , atlantis , ölümsüzlük
-
+büyü: ilham
 
 isim:Rafaela
 item:mana botu , vaha matarası , kahin , dilek feneri , fani zaman , ölümsüzlük
-
+büyü: canlandırma 
 
 isim:Roger
 item:sağlam botlar , bitmeyen savaş , kinci balta , umutsuzluk kılıcı , korkunç silah , ölümsüzlük
-
+büyü: pençe 
 
 isim:Ruby
 item:sağlam botlar , bitmeyen savaş , kinci balta , acımasız kuvvet zırhı , kahin , ölümsüzlük
-
+büyü: ışınlan 
 
 isim:Saber
 item:sürat botu , kinci balta , umutsuzluk kılıcı , korkunç silah , haasın pençeleri , kıyamet kanatları
-
+büyü: pençe 
 
 isim:Selena
 item:sihirli botlar , akıllı asa , konsantre enerji , adalet kılıcı , kutsal kristal , kıyamet kanatları
-
+büyü: infaz
 
 isim:Silvanna
 item:sağlam botlar , bitmeyen savaş , kinci balta , acımasız kuvvet zırhı , kahin , ölümsüzlük
-
+büyü: ışınlan 
 
 isim:Sora
 item:sağlam botlar , bitmeyen savaş , kinci balta , acımasız kuvvet zırhı , kahin , ölümsüzlük
-
+büyü: ışınlan 
 
 isim:Sun
 item:sağlam botlar , bitmeyen savaş , kinci balta , korozyon tırpanı , umutsuzluk kılıcı , ölümsüzlük
-
+büyü: taşlaştır 
 
 isim:Suyou
 item:saldırı hızı botu , kinci balta , umutsuzluk kılıcı , korkunç silah , haasın pençeleri , ölümsüzlük
-
+büyü: pençe 
 
 isim:Terizla
 item:sağlam botlar , bitmeyen savaş , kinci balta , acımasız kuvvet zırhı , kahin , ölümsüzlük
-
+büyü: ışınlan 
 
 isim:Thamuz
 item:sağlam botlar , bitmeyen savaş , kinci balta , acımasız kuvvet zırhı , kahin , ölümsüzlük
-
+büyü: misilleme 
 
 isim:Tigreal
 item:sağlam botlar , azaptar omuzluğu , antik zırh , athena , muhafız miğferi , ölümsüzlük
-
+büyü: ışınlan 
 
 isim:Uranus
 item:sağlam botlar , antik zırh , athena , muhafız miğferi , kahin , ölümsüzlük
-
+büyü: canlandırma 
 
 isim:Vale
 item:büyücü botu , akıllı asa , konsantre enerji , kutsal kristal , adalet kılıcı , kader saati
-
+büyü: ışınlan 
 
 isim:Valentina
 item:büyücü botu , akıllı asa , konsantre enerji , kutsal kristal , adalet kılıcı , fani zaman
-
+büyü: ışınlan 
 
 isim:Valir
 item:büyücü botu , akıllı asa , konsantre enerji , kutsal kristal , adalet kılıcı , kader saati
-
+büyü: alev atışı 
 
 isim:Vexana
 item:büyücü botu , akıllı asa , konsantre enerji , kutsal kristal , adalet kılıcı , kader saati
-
+büyü: alev atışı 
 
 isim:Wanwan
 item:saldırı hızı botu , midas , umutsuzluk kılıcı , korkunç silah , atlantis , ölümsüzlük
-
+büyü: ilham
 
 isim:Xborg
 item:sağlam botlar , bitmeyen savaş , kinci balta , acımasız kuvvet zırhı , kahin , ölümsüzlük
-
+büyü: ışınlan 
 
 isim:Xavier
 item:saldırı hızı botu , korkunç silah , midas , konsantre enerji , adalet kılıcı , kutsal kristal
-
+büyü: alev atışı 
 
 isim:Yisunshin
 item:sürat botu , kinci balta , umutsuzluk kılıcı , korkunç silah , haasın pençeleri , kıyamet kanatları
-
+büyü: pençe 
 
 isim:Yin
 item:sürat botu , kinci balta , umutsuzluk kılıcı , korkunç silah , haasın pençeleri , kıyamet kanatları
-
+büyü: pençe 
 
 isim:Yu zhong
 item:sağlam botlar , bitmeyen savaş , kinci balta , acımasız kuvvet zırhı , umutsuzluk kılıcı , ölümsüzlük
-
+büyü: taşlaştır 
 
 isim:Yve
 item:büyücü botu , akıllı asa , konsantre enerji , kutsal kristal , adalet kılıcı , kader saati
-
+büyü: ışınlan 
 
 isim:Zetian
 item:büyücü botu , akıllı asa , kutsal kristal , konsantre enerji , adalet kılıcı , dilek feneri
-
+büyü: alev atışı 
 
 isim:Zhask
 item:büyücü botu , akıllı asa , konsantre enerji , kutsal kristal , adalet kılıcı , kader saati
-
+büyü: ışınlan 
 
 isim:Zhuxin
 item:büyücü botu , akıllı asa , konsantre enerji , kutsal kristal , adalet kılıcı , gök kıran
-
+büyü: alev atışı 
 
 isim:Zilong
 item:sağlam botlar , bitmeyen savaş , kinci balta , umutsuzluk kılıcı , korkunç silah , ölümsüzlük
+büyü: ilham
